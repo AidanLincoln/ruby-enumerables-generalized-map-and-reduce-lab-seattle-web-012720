@@ -8,6 +8,11 @@ def map(array)
   new_array
 end
 
-def reduce(array)
+def reduce(array, starting_point = 0)
+  value = 0
+  i = 0
+  while i < array.length do
+  
+  end
   
 end
