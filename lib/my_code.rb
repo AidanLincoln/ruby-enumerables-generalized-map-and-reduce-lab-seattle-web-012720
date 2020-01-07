@@ -15,5 +15,5 @@ def reduce(array, starting_point = nil)
     yield(array[i])
     i += 1
   end
-  
+  value
 end
