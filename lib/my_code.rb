@@ -1,2 +1,2 @@
 # Your Code Here
-def map(source_array, block)
+def map(array)
